@@ -2,6 +2,8 @@
 
 Privacy-first, local-first time-series dashboard for CSV-based personal data (weight, calories, steps, etc.).
 
+![TS-Dash Screenshot](./screenshot.png)
+
 ## What It Does
 
 - Imports CSV data with a guided mapping wizard.
