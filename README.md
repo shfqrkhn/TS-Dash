@@ -2,6 +2,8 @@
 
 Privacy-first, local-first time-series dashboard for CSV-based personal data (weight, calories, steps, etc.).
 
+**[Live Demo](https://shfqrkhn.github.io/TS-Dash/)**
+
 ![TS-Dash Screenshot](./screenshot.png)
 
 ## What It Does
